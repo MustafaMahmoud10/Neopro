@@ -15,6 +15,9 @@ git diff [Commit_Id] [Commit_Id]
 git branch
 git branch --list
 git branch -M "rename  branch"
+git remote add [AliasVar] [URL]
+git push -u [AliasVar] [Branc namr]
+
 
 
 
