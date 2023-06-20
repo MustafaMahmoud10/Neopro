@@ -28,6 +28,8 @@ git push -u [AliasVar] [Branc namr]
 
 
 
+verbose
+
     add       Add file contents to the index
 
 
