@@ -1,8 +1,37 @@
 
 git config --global user.name "Name"
 git config --global user.email "Email"
-git config 
+git config -- list
 
 git init
+git status 
+git add [filename1] [filename2] 
+git add --all
+git add . 
+git commit -m "[change desciption]"
+git log 
+git show [Commit_Id]
+git diff [Commit_Id] [Commit_Id]
+git branch
+git branch --list
+git branch -M "rename  branch"
 
-git 
+
+
+
+
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+
+
+    add       Add file contents to the index
+
+
+
+  fetch     Download objects and refs from another repository
+   pull   Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+
+
