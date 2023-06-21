@@ -10,21 +10,13 @@ git add --all
 git add . 
 git commit -m "[change desciption]"
 git log 
-git log --oneline
 git show [Commit_Id]
 git diff [Commit_Id] [Commit_Id]
 git branch
 git branch --list
 git branch -M "rename  branch"
-git remote add [AliasVar/remote name] [URL]
-git remote
-git remote -v
-git push -u [AliasVar/remote name] [Branc name]
-git pull [AliasVar/remote name] [Branc name]
-git remote rm [AliasVar/remote name]
-git revert
-git reset
-
+git remote add [AliasVar] [URL]
+git push -u [AliasVar] [Branc namr]
 
 
 
